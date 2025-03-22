@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on web projects and web apps <br>👯 I’m looking to collaborate on opensource projects<br>🌱 I’m currently learning Machine Learning and Algorithms <br>⚡ Fun fact "I am a Photographer"
+🔭 I’m currently working on web projects and web apps <br>👯  Fun fact "I am a Photographer"
 
 
 ## 🌐 Socials:
